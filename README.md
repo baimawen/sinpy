@@ -10,7 +10,7 @@ https://github.com/baimawen/sinpy
 
 ## 目的
 
-本项目采用了一系列Golang中比较流行的组件, 可以以本项目为基础快速搭建Restful Web Api
+本项目采用了一系列Python中比较流行的组件, 可以以本项目为基础快速搭建Restful Web Api
 
 ## 技术栈
 ```Python3.7 + FastAPI + MySQL + Redis + Tortoise-orm + Aerich```
@@ -19,8 +19,7 @@ https://github.com/baimawen/sinpy
 本项目已经整合了许多开发API所必要的组件:
 
 1. [FastAPI](https://github.com/tiangolo/fastapi):FastAPI 框架，高性能，易于学习，快速编写代码，随时可供生产
-2. [Tortoise-orm](https://github.com/tortoise/tortoise-orm):是一种易于使用的ORM(对象关系映射器), 灵感来自Django
-3. [Aerich](https://github.com/tortoise/aerich):Aerich 是 Tortoise-ORM 的数据库迁移工具
+
 
 本项目已经预先实现了一些常用的代码方便参考和复用:
 
